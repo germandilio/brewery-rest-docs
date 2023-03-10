@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+PUT /api/v2/beer/83de78a5-39a7-44e3-a17f-cb47e288ed2c HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 70
+Host: localhost:8080
+
+{"id":null,"beerName":"Nice Ale","beerStyle":"ALE","upc":123123123123}
+----

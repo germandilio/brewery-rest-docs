@@ -1,0 +1,85 @@
+= SFG Brewery Rest Docs
+by germandilio;
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+
+This is an example of documentation for Beer API v2
+
+GET BEER
+
+Curl request:
+
+include::{snippets}/v2/beer-get/curl-request.adoc[]
+
+HTTP request:
+
+include::{snippets}/v2/beer-get/http-request.adoc[]
+
+HTTP response:
+
+include::{snippets}/v2/beer-get/http-response.adoc[]
+
+Response Body:
+
+include::{snippets}/v2/beer-get/response-body.adoc[]
+
+Response Fields:
+
+include::{snippets}/v2/beer-get/response-fields.adoc[]
+
+CREATE BEER
+
+Curl request:
+
+include::{snippets}/v2/beer-post/curl-request.adoc[]
+
+HTTP request:
+
+include::{snippets}/v2/beer-post/http-request.adoc[]
+
+Request fields:
+
+include::{snippets}/v2/beer-post/request-fields.adoc[]
+
+HTTP response:
+
+include::{snippets}/v2/beer-post/http-response.adoc[]
+
+
+UPDATE BEER
+
+Curl request:
+
+include::{snippets}/v2/beer-put/curl-request.adoc[]
+
+HTTP request:
+
+include::{snippets}/v2/beer-put/http-request.adoc[]
+
+Request fields:
+
+include::{snippets}/v2/beer-post/request-fields.adoc[]
+
+HTTP response:
+
+include::{snippets}/v2/beer-put/http-response.adoc[]
+
+
+DELETE BEER
+
+Curl request:
+
+include::{snippets}/v2/beer-delete/curl-request.adoc[]
+
+HTTP request:
+
+include::{snippets}/v2/beer-delete/http-request.adoc[]
+
+Request fields:
+
+include::{snippets}/v2/beer-post/request-fields.adoc[]
+
+HTTP response:
+
+include::{snippets}/v2/beer-delete/http-response.adoc[]

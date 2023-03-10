@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/api/v2/beer/83de78a5-39a7-44e3-a17f-cb47e288ed2c' -i -X PUT \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -d '{"id":null,"beerName":"Nice Ale","beerStyle":"ALE","upc":123123123123}'
+----

@@ -1,0 +1,8 @@
+.+/api/v2/beer/{beerId}+
+|===
+|Parameter|Description
+
+|`+beerId+`
+|Beer id
+
+|===

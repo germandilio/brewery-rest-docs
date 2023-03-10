@@ -1,0 +1,4 @@
+[source,json,options="nowrap"]
+----
+{"id":null,"beerName":null,"beerStyle":null,"upc":null}
+----

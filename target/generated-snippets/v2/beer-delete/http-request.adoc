@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+DELETE /api/v2/beer/0589fcc4-d79f-4e96-b750-4c185ea6975f HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Host: localhost:8080
+
+----

@@ -1,0 +1,20 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+Null+`
+|Beer id
+
+|`+beerName+`
+|`+Null+`
+|Beer name
+
+|`+beerStyle+`
+|`+Null+`
+|Beer style
+
+|`+upc+`
+|`+Null+`
+|Universal product code
+
+|===
